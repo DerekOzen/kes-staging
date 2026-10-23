@@ -1865,14 +1865,15 @@
     "type": "page",
     "title": "Checkout | Korean Engine Specialist",
     "seoTitle": "Checkout | Korean Engine Specialist",
-    "seoDescription": "",
+    "seoDescription": "Complete your engine order. Delivery Australia-wide, or pickup and fitting at our Hallam workshop. Card, bank transfer or cash on delivery.",
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-23T06:04:16.733Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-23T06:04:16.733Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-23T06:04:55.307Z",
+    "updatedBy": "joshua",
+    "noindex": true
   }
 ]
