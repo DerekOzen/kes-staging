@@ -1851,11 +1851,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-23T06:04:16.733Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-23T06:04:55.307Z",
+    "updatedAt": "2026-10-23T06:20:24.525Z",
     "updatedBy": "joshua",
-    "noindex": true
+    "noindex": true,
+    "isHome": false
   }
 ]
