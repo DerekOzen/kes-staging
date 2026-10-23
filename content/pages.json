@@ -1521,23 +1521,6 @@
     "updatedBy": "joshua"
   },
   {
-    "id": "pg-96",
-    "path": "/pricing",
-    "type": "page",
-    "title": "Hyundai & Kia Engine Prices | New and Reconditioned",
-    "seoTitle": "Hyundai & Kia Engine Prices | New and Reconditioned",
-    "seoDescription": "Published prices for reconditioned and new Hyundai and Kia engines, GST included. Fitting a flat $1,000 at our Hallam workshop. Call (03) 8900 6005.",
-    "layout": "mockup",
-    "headerPartId": "header-2",
-    "footerPartId": "footer-1",
-    "status": "deleted",
-    "createdAt": "2026-10-23T04:56:57.579Z",
-    "createdBy": "joshua",
-    "updatedAt": "2026-10-23T05:26:58.098Z",
-    "updatedBy": "joshua",
-    "isHome": false
-  },
-  {
     "id": "pg-97",
     "path": "/privacy-policy",
     "type": "page",
