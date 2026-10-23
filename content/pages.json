@@ -1839,5 +1839,21 @@
     "createdBy": "joshua",
     "updatedAt": "2026-10-23T05:28:10.598Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-118",
+    "path": "/cart",
+    "type": "page",
+    "title": "Base44 Cart UPDATED",
+    "seoTitle": "Base44 Cart UPDATED",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-10-23T05:47:38.410Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-23T05:47:38.410Z",
+    "updatedBy": "joshua"
   }
 ]
