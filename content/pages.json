@@ -1858,5 +1858,21 @@
     "updatedAt": "2026-10-23T05:49:26.957Z",
     "updatedBy": "joshua",
     "noindex": true
+  },
+  {
+    "id": "pg-119",
+    "path": "/checkout",
+    "type": "page",
+    "title": "Checkout | Korean Engine Specialist",
+    "seoTitle": "Checkout | Korean Engine Specialist",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-10-23T06:04:16.733Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-23T06:04:16.733Z",
+    "updatedBy": "joshua"
   }
 ]
