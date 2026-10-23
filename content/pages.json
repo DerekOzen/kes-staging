@@ -1530,11 +1530,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-23T04:56:57.579Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-23T05:20:06.961Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-23T05:26:58.098Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-97",
