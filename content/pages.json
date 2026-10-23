@@ -1856,5 +1856,21 @@
     "createdBy": "joshua",
     "updatedAt": "2026-10-23T05:20:06.961Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-117",
+    "path": "/pricing",
+    "type": "page",
+    "title": "Hyundai & Kia Engine Prices | New and Reconditioned",
+    "seoTitle": "Engine Prices - Korean Engine Specialist",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-10-23T05:27:45.589Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-23T05:27:45.589Z",
+    "updatedBy": "joshua"
   }
 ]
