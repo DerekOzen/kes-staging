@@ -45,8 +45,9 @@
     "status": "published",
     "createdAt": "2026-10-23T04:37:47.830Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-23T05:20:06.961Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-23T05:48:44.927Z",
+    "updatedBy": "joshua",
+    "noindex": true
   },
   {
     "id": "pg-5",
